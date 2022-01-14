@@ -28,3 +28,12 @@
 ### Ver todos los commits realizados
 
     $ git log
+
+### Crear una nueva rama
+
+    $ git branch <branchname>
+    $ git checkout -b <branchname>
+
+### Cambiar de Rama (branch)
+
+    $ git checkout <branchname>
