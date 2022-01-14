@@ -37,3 +37,11 @@
 ### Cambiar de Rama (branch)
 
     $ git checkout <branchname>
+
+### Eliminar ramas (branch)
+
+    $ git branch -D <branchname>
+
+### Unir ramas (branch)
+
+    $ git merge <branchname>
