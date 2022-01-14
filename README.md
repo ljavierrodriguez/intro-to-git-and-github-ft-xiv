@@ -45,3 +45,15 @@
 ### Unir ramas (branch)
 
     $ git merge <branchname>
+
+### Listar repositorio remotos
+
+    $ git remote -v
+
+### Agregar repositorio remoto
+
+    $ git remote add <remote> <url>
+
+### Enviar cambios al repositorio remoto 
+
+    $ git push <remote> <branch>
